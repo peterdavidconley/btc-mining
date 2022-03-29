@@ -4,7 +4,7 @@ A web application that hosts specific bitcoin mining data.
 
 ## Motivation
 
-A portfolio project template for developers who want to get into the bitcoin space. 
+A portfolio project template for developers who want to get into the bitcoin space. Inspiration comes from the [Bitcoin Mining Map](https://ccaf.io/cbeci/mining_map) project. 
 
 ## Design Specs
 
