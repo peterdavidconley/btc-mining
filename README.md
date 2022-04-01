@@ -1,6 +1,6 @@
 ## Bitcoin Mining Statistics
 
-A web application that hosts specific bitcoin mining data.
+A web application that displays mining data from the bitcoin network such as hash rate, mining rig data, and more.
 
 ## Motivation
 
@@ -8,7 +8,7 @@ A portfolio project template for developers who want to get into the bitcoin spa
 
 ## Design Specs
 
-Here is a link to a design mockup <>
+Here is a link to a design mockup []()
 
 ## Tech/framework used
 
