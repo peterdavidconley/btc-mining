@@ -38,7 +38,7 @@ You may also see any lint errors in the console.
 
 ## How to Use
 
--Lorem ipsum
+- Input the proper fields you want, hit suibmit, and interact with the data on our UI.
 
 ## Contribute
 
@@ -51,7 +51,6 @@ Contribute to this project by forking and creating your own portfolio piece.
 ## Contributors
 
 [Peter Conley](https://github.com/peterdavidconley)
-
 
 
 # Getting Started with Create React App
