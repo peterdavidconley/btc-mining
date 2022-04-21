@@ -8,7 +8,7 @@ A portfolio project template for developers who want to get into the bitcoin spa
 
 ## Design Specs
 
-Here is a link to a design mockup []()
+The design mockup will be linked here []()
 
 ## Tech/framework used
 
