@@ -39,6 +39,7 @@ You may also see any lint errors in the console.
 ## How to Use
 
 - Input the proper fields you want, hit suibmit, and interact with the data on our UI.
+- Filter data by given parameters.
 
 ## Contribute
 
