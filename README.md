@@ -30,11 +30,11 @@ You may also see any lint errors in the console.
 
 #### Front End Deployment
 
-[]()
+information will be here
 
 #### Backend API
 
-[]()
+information will be here
 
 ## How to Use
 
