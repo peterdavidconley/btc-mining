@@ -1,6 +1,6 @@
 ## Bitcoin Mining Statistics
 
-A web application that displays mining data from the bitcoin network such as hash rate, mining rig data, and more.
+A web application that displays mining data from the bitcoin network such as hash rate, mining rig data, location of mining and more.
 
 ## Motivation
 
@@ -38,7 +38,7 @@ information will be here
 
 ## How to Use
 
-- Input the proper fields you want, hit suibmit, and interact with the data on our UI.
+- Input the proper fields you want, hit submit, and interact with the data on our UI.
 - Filter data by given parameters.
 
 ## Contribute
